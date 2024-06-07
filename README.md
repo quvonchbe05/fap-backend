@@ -28,3 +28,7 @@ docker compose up --build
 
 1. Access the admin interface at `http://localhost:8000/admin`.
 2. Access the Swagger documentation at `http://localhost:8000/docs`.
+
+### Logs
+
+All backend logs are stored in the `logs` folder within the `logs` directory.
