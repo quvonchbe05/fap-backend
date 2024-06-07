@@ -11,7 +11,7 @@ This is the backend of the FAQ project, built with Python FastAPI, SQLalchemy, D
 ### Setup
 
 ```
-git clone <repository_url>
+git clone https://github.com/quvonchbe05/fap-backend.git
 ```
 
 ## Usage
