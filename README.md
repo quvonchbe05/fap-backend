@@ -21,7 +21,7 @@ git clone https://github.com/quvonchbe05/fap-backend.git
 Build the Docker image:
 
 ```
-docker-compose up --build
+docker compose up --build
 ```
 
 ## URLs
